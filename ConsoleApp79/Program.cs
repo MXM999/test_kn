@@ -11,6 +11,7 @@ namespace ConsoleApp79
         static void Main(string[] args)
         {
             Console.WriteLine(1);
+            Console.WriteLine("mxm");
         }
     }
 }
