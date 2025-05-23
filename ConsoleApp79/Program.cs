@@ -13,6 +13,7 @@ namespace ConsoleApp79
             Console.WriteLine(1);
             Console.WriteLine("mxm");
             Console.WriteLine("Console.WriteLine");
+            Console.WriteLine(12);
         }
     }
 }
